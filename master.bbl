@@ -1,8 +1,33 @@
 \begin{thebibliography}{1}
 
-\bibitem{ryanavatars}
-Ryan, M.
-\newblock {\em Avatars of Story}.
-\newblock U of Minnesota Press, 2006.
+\bibitem{Epstein2015}
+Epstein, D.~A., Ping, A., Fogarty, J., and Munson, S.~A.
+\newblock A lived informatics model of personal informatics.
+\newblock In {\em Proceedings of the 2015 ACM International Joint Conference on
+  Pervasive and Ubiquitous Computing}, ACM (2015), 731--742.
+
+\bibitem{Li2010}
+Li, I., Dey, A., and Forlizzi, J.
+\newblock A stage-based model of personal informatics systems.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, ACM (2010), 557--566.
+
+\bibitem{pedone}
+Pedone, C., and Lelli, D.
+\newblock Systematic review of telemonitoring in copd: an update.
+\newblock {\em Pneumologia i Alergologia Polska 83}, 6 (2015), 476--484.
+
+\bibitem{Rooksby2014}
+Rooksby, J., Rost, M., Morrison, A., and Chalmers, M.~C.
+\newblock Personal tracking as lived informatics.
+\newblock In {\em Proceedings of the 32nd annual ACM conference on Human
+  factors in computing systems}, ACM (2014), 1163--1172.
+
+\bibitem{piloting}
+Ure, J., Pinnock, H., Hanley, J., Kidd, G., Smith, E.~M., Tarling, A.,
+  Pagliari, C., Sheikh, A., MacNee, W., and McKinstry, B.
+\newblock Piloting tele-monitoring in copd: a mixed methods exploration of
+  issues in design and implementation.
+\newblock {\em Primary Care Respiratory Journal 21}, 1 (2011), 57--64.
 
 \end{thebibliography}
