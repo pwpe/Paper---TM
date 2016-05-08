@@ -1,4 +1,17 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{Ancker2015}
+Ancker, J.~S., Witteman, H.~O., Hafeez, B., Provencher, T., Van~de Graaf, M.,
+  and Wei, E.
+\newblock “you get reminded you’re a sick person”: Personal data tracking
+  and patients with multiple chronic conditions.
+\newblock {\em Journal of medical Internet research 17}, 8 (2015).
+
+\bibitem{Chung2015}
+Chung, C.-F., Cook, J., Bales, E., Zia, J., and Munson, S.~A.
+\newblock More than telemonitoring: Health provider use and nonuse of life-log
+  data in irritable bowel syndrome and weight management.
+\newblock {\em Journal of medical Internet research 17}, 8 (2015), e203.
 
 \bibitem{Epstein2015}
 Epstein, D.~A., Ping, A., Fogarty, J., and Munson, S.~A.
@@ -6,11 +19,30 @@ Epstein, D.~A., Ping, A., Fogarty, J., and Munson, S.~A.
 \newblock In {\em Proceedings of the 2015 ACM International Joint Conference on
   Pervasive and Ubiquitous Computing}, ACM (2015), 731--742.
 
+\bibitem{Fleck}
+Fleck, R., and Fitzpatrick, G.
+\newblock Reflecting on reflection: framing a design landscape.
+\newblock In {\em Proceedings of the 22nd Conference of the Computer-Human
+  Interaction Special Interest Group of Australia on Computer-Human
+  Interaction}, ACM (2010), 216--223.
+
 \bibitem{Li2010}
 Li, I., Dey, A., and Forlizzi, J.
 \newblock A stage-based model of personal informatics systems.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, ACM (2010), 557--566.
+
+\bibitem{Oh2015}
+Oh, J., and Lee, U.
+\newblock Exploring ux issues in quantified self technologies.
+\newblock In {\em Mobile Computing and Ubiquitous Networking (ICMU), 2015
+  Eighth International Conference on}, IEEE (2015), 53--59.
+
+\bibitem{Patel2012}
+Patel, R.~A., Klasnja, P., Hartzler, A., Unruh, K.~T., and Pratt, W.
+\newblock Probing the benefits of real-time tracking during cancer care.
+\newblock In {\em AMIA Annual Symposium Proceedings}, vol.~2012, American
+  Medical Informatics Association (2012), 1340.
 
 \bibitem{pedone}
 Pedone, C., and Lelli, D.
@@ -29,5 +61,10 @@ Ure, J., Pinnock, H., Hanley, J., Kidd, G., Smith, E.~M., Tarling, A.,
 \newblock Piloting tele-monitoring in copd: a mixed methods exploration of
   issues in design and implementation.
 \newblock {\em Primary Care Respiratory Journal 21}, 1 (2011), 57--64.
+
+\bibitem{Verdezoto2015}
+Verdezoto, N., and Gr{\"o}nvall, E.
+\newblock On preventive blood pressure self-monitoring at home.
+\newblock {\em Cognition, Technology \& Work\/} (2015), 1--19.
 
 \end{thebibliography}
