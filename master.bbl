@@ -7,6 +7,13 @@ Ancker, J.~S., Witteman, H.~O., Hafeez, B., Provencher, T., Van~de Graaf, M.,
   and patients with multiple chronic conditions.
 \newblock {\em Journal of medical Internet research 17}, 8 (2015).
 
+\bibitem{Choe2014}
+Choe, E.~K., Lee, N.~B., Lee, B., Pratt, W., and Kientz, J.~A.
+\newblock Understanding quantified-selfers' practices in collecting and
+  exploring personal data.
+\newblock In {\em Proceedings of the 32nd annual ACM conference on Human
+  factors in computing systems}, ACM (2014), 1143--1152.
+
 \bibitem{Chung2015}
 Chung, C.-F., Cook, J., Bales, E., Zia, J., and Munson, S.~A.
 \newblock More than telemonitoring: Health provider use and nonuse of life-log
@@ -31,6 +38,19 @@ Li, I., Dey, A., and Forlizzi, J.
 \newblock A stage-based model of personal informatics systems.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, ACM (2010), 557--566.
+
+\bibitem{Li2011}
+Li, I., Dey, A.~K., and Forlizzi, J.
+\newblock Understanding my data, myself: supporting self-reflection with
+  ubicomp technologies.
+\newblock In {\em Proceedings of the 13th international conference on
+  Ubiquitous computing}, ACM (2011), 405--414.
+
+\bibitem{MacLeod2014}
+MacLeod, H., Tang, A., and Carpendale, S.
+\newblock Personal informatics in chronic illness management.
+\newblock In {\em Proceedings of Graphics Interface 2013}, Canadian Information
+  Processing Society (2013), 149--156.
 
 \bibitem{Oh2015}
 Oh, J., and Lee, U.

@@ -4,48 +4,56 @@ The top-level auxiliary file: master.aux
 The style file: acm-sigchi.bst
 Database file #1: references.bib
 Warning--I didn't find a database entry for "Rivera"
-Warning--I didn't find a database entry for "Muller"
-Warning--I didn't find a database entry for "Boud"
 Warning--I didn't find a database entry for "Chung2016"
-You've used 11 entries,
+Warning--I didn't find a database entry for "Muller"
+Warning--I didn't find a database entry for "Whooley2014"
+Warning--I didn't find a database entry for "insertTwoStudiesHere"
+Warning--I didn't find a database entry for "Mols"
+Warning--I didn't find a database entry for "Rogers"
+Warning--I didn't find a database entry for "Cuttone"
+Warning--I didn't find a database entry for "Cutone"
+Warning--I didn't find a database entry for "Sorensen"
+Warning--I didn't find a database entry for "MacLeod"
+Warning--I didn't find a database entry for "Isaac"
+You've used 14 entries,
             2243 wiz_defined-function locations,
-            611 strings with 6554 characters,
-and the built_in function-call counts, 4759 in all, are:
-= -- 464
-> -- 247
+            646 strings with 7330 characters,
+and the built_in function-call counts, 6290 in all, are:
+= -- 620
+> -- 308
 < -- 0
-+ -- 103
-- -- 90
-* -- 357
-:= -- 742
-add.period$ -- 33
-call.type$ -- 11
-change.case$ -- 78
++ -- 128
+- -- 112
+* -- 457
+:= -- 955
+add.period$ -- 42
+call.type$ -- 14
+change.case$ -- 98
 chr.to.int$ -- 0
-cite$ -- 11
-duplicate$ -- 183
-empty$ -- 359
-format.name$ -- 90
-if$ -- 1019
+cite$ -- 14
+duplicate$ -- 257
+empty$ -- 488
+format.name$ -- 112
+if$ -- 1369
 int.to.chr$ -- 0
-int.to.str$ -- 11
-missing$ -- 11
-newline$ -- 58
-num.names$ -- 22
-pop$ -- 87
+int.to.str$ -- 14
+missing$ -- 14
+newline$ -- 73
+num.names$ -- 28
+pop$ -- 116
 preamble$ -- 1
-purify$ -- 67
+purify$ -- 84
 quote$ -- 0
-skip$ -- 139
+skip$ -- 199
 stack$ -- 0
-substring$ -- 297
-swap$ -- 59
+substring$ -- 416
+swap$ -- 88
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 44
+type$ -- 56
 warning$ -- 0
-while$ -- 45
-width$ -- 13
-write$ -- 118
-(There were 4 warnings)
+while$ -- 60
+width$ -- 16
+write$ -- 151
+(There were 12 warnings)
