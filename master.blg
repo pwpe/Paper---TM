@@ -8,16 +8,19 @@ Warning--I didn't find a database entry for "Chung2016"
 Warning--I didn't find a database entry for "Muller"
 Warning--I didn't find a database entry for "Whooley2014"
 Warning--I didn't find a database entry for "insertTwoStudiesHere"
-Warning--I didn't find a database entry for "Mols"
 Warning--I didn't find a database entry for "Rogers"
+Warning--I didn't find a database entry for "Mols"
 Warning--I didn't find a database entry for "Cuttone"
 Warning--I didn't find a database entry for "Cutone"
 Warning--I didn't find a database entry for "Sorensen"
 Warning--I didn't find a database entry for "MacLeod"
 Warning--I didn't find a database entry for "Isaac"
+Warning--I didn't find a database entry for "Das"
+Warning--I didn't find a database entry for "dalhousie"
+Warning--I didn't find a database entry for "exact"
 You've used 14 entries,
             2243 wiz_defined-function locations,
-            646 strings with 7330 characters,
+            650 strings with 7350 characters,
 and the built_in function-call counts, 6290 in all, are:
 = -- 620
 > -- 308
@@ -56,4 +59,4 @@ warning$ -- 0
 while$ -- 60
 width$ -- 16
 write$ -- 151
-(There were 12 warnings)
+(There were 15 warnings)
