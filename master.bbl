@@ -7,6 +7,11 @@ Ancker, J.~S., Witteman, H.~O., Hafeez, B., Provencher, T., Van~de Graaf, M.,
   and patients with multiple chronic conditions.
 \newblock {\em Journal of medical Internet research 17}, 8 (2015).
 
+\bibitem{Atkins}
+Atkins, S., and Murphy, K.
+\newblock Reflection: a review of the literature.
+\newblock {\em Journal of advanced nursing 18}, 8 (1993), 1188--1192.
+
 \bibitem{Choe2014}
 Choe, E.~K., Lee, N.~B., Lee, B., Pratt, W., and Kientz, J.~A.
 \newblock Understanding quantified-selfers' practices in collecting and
@@ -20,6 +25,32 @@ Chung, C.-F., Cook, J., Bales, E., Zia, J., and Munson, S.~A.
   data in irritable bowel syndrome and weight management.
 \newblock {\em Journal of medical Internet research 17}, 8 (2015), e203.
 
+\bibitem{Chung2016}
+Chung, C.-F., Dew, K., Cole, A., Zia, J., Fogarty, J., Kientz, J.~A., and
+  Munson, S.~A.
+\newblock Boundary negotiating artifacts in personal informatics:
+  Patient-provider collaboration with patient-generated data.
+\newblock In {\em Proceedings of the 19th ACM Conference on Computer-Supported
+  Cooperative Work \& Social Computing}, CSCW '16, ACM (New York, NY, USA,
+  2016), 770--786.
+
+\bibitem{Cuttone}
+Cuttone, A., Petersen, M.~K., and Larsen, J.~E.
+\newblock Four data visualization heuristics to facilitate reflection in
+  personal informatics.
+\newblock In {\em Universal Access in Human-Computer Interaction. Design for
+  All and Accessibility Practice}. Springer, 2014, 541--552.
+
+\bibitem{Das}
+Das, A., B{\o}thun, S., Reitan, J., and Dahl, Y.
+\newblock {\em Design, User Experience, and Usability: Interactive Experience
+  Design: 4th International Conference, DUXU 2015, Held as Part of HCI
+  International 2015, Los Angeles, CA, USA, August 2-7, 2015, Proceedings, Part
+  III}.
+\newblock Springer International Publishing, Cham, 2015, ch.~The Use of
+  Generative Techniques in Co-design of mHealth Technology and Healthcare
+  Services for COPD Patients, 587--595.
+
 \bibitem{Epstein2015}
 Epstein, D.~A., Ping, A., Fogarty, J., and Munson, S.~A.
 \newblock A lived informatics model of personal informatics.
@@ -32,6 +63,20 @@ Fleck, R., and Fitzpatrick, G.
 \newblock In {\em Proceedings of the 22nd Conference of the Computer-Human
   Interaction Special Interest Group of Australia on Computer-Human
   Interaction}, ACM (2010), 216--223.
+
+\bibitem{exact}
+Initiative, E.-P.
+\newblock {\em The Exacerbations of Chronic Pulmonary Obstructive Disease Tool
+  (EXACT): Patient-Reported Outcome (PRO)}.
+\newblock Evidera.
+
+\bibitem{Isaac}
+Isaacs, E., Konrad, A., Walendowski, A., Lennig, T., Hollis, V., and Whittaker,
+  S.
+\newblock Echoes from the past: how technology mediated reflection improves
+  well-being.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, ACM (2013), 1071--1080.
 
 \bibitem{Li2010}
 Li, I., Dey, A., and Forlizzi, J.
@@ -52,6 +97,20 @@ MacLeod, H., Tang, A., and Carpendale, S.
 \newblock In {\em Proceedings of Graphics Interface 2013}, Canadian Information
   Processing Society (2013), 149--156.
 
+\bibitem{Mols}
+Mols, I., van~den Hoven, E., and Eggen, B.
+\newblock Technologies for everyday life reflection: Illustrating a design
+  space.
+\newblock In {\em Proceedings of the TEI'16: Tenth International Conference on
+  Tangible, Embedded, and Embodied Interaction}, ACM (2016), 53--61.
+
+\bibitem{Muller}
+Muller, L., Divitini, M., Mora, S., Rivera-Pelayo, V., and Stork, W.
+\newblock Context becomes content: Sensor data for computer-supported
+  reflective learning.
+\newblock {\em Learning Technologies, IEEE Transactions on 8}, 1 (2015),
+  111--123.
+
 \bibitem{Oh2015}
 Oh, J., and Lee, U.
 \newblock Exploring ux issues in quantified self technologies.
@@ -69,11 +128,35 @@ Pedone, C., and Lelli, D.
 \newblock Systematic review of telemonitoring in copd: an update.
 \newblock {\em Pneumologia i Alergologia Polska 83}, 6 (2015), 476--484.
 
+\bibitem{dalhousie}
+Pianosi, P.~T., Huebner, M., Zhang, Z., and McGrath, P.~J.
+\newblock Dalhousie dyspnea and perceived exertion scales: Psychophysical
+  properties in children and adolescents.
+\newblock {\em Respiratory Physiology \& Neurobiology 199\/} (2014), 34 -- 40.
+
+\bibitem{Rivera}
+Rivera~Pelayo, V.
+\newblock {\em Design and Application of Quantified Self Approaches for
+  Reflective Learning in the Workplace}.
+\newblock KIT Scientific Publishing, 2015.
+
+\bibitem{Rogers}
+Rogers, R.~R.
+\newblock Reflection in higher education: A concept analysis.
+\newblock {\em Innovative higher education 26}, 1 (2001), 37--57.
+
 \bibitem{Rooksby2014}
 Rooksby, J., Rost, M., Morrison, A., and Chalmers, M.~C.
 \newblock Personal tracking as lived informatics.
 \newblock In {\em Proceedings of the 32nd annual ACM conference on Human
   factors in computing systems}, ACM (2014), 1163--1172.
+
+\bibitem{Sorensen}
+Sorenson, E., and Brath, R.
+\newblock Financial visualization case study: Correlating financial timeseries
+  and discrete events to support investment decisions.
+\newblock In {\em 2013 17th International Conference on Information
+  Visualisation}, IEEE (2013), 232--238.
 
 \bibitem{piloting}
 Ure, J., Pinnock, H., Hanley, J., Kidd, G., Smith, E.~M., Tarling, A.,
@@ -86,5 +169,13 @@ Ure, J., Pinnock, H., Hanley, J., Kidd, G., Smith, E.~M., Tarling, A.,
 Verdezoto, N., and Gr{\"o}nvall, E.
 \newblock On preventive blood pressure self-monitoring at home.
 \newblock {\em Cognition, Technology \& Work\/} (2015), 1--19.
+
+\bibitem{Whooley2014}
+Whooley, M., Ploderer, B., and Gray, K.
+\newblock On the integration of self-tracking data amongst quantified self
+  members.
+\newblock In {\em Proceedings of the 28th International BCS Human Computer
+  Interaction Conference on HCI 2014-Sand, Sea and Sky-Holiday HCI}, BCS
+  (2014), 151--160.
 
 \end{thebibliography}

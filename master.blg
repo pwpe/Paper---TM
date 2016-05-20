@@ -3,60 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: master.aux
 The style file: acm-sigchi.bst
 Database file #1: references.bib
-Warning--I didn't find a database entry for "Rivera"
-Warning--I didn't find a database entry for "Chung2016"
-Warning--I didn't find a database entry for "Muller"
-Warning--I didn't find a database entry for "Whooley2014"
-Warning--I didn't find a database entry for "insertTwoStudiesHere"
-Warning--I didn't find a database entry for "Rogers"
-Warning--I didn't find a database entry for "Mols"
-Warning--I didn't find a database entry for "Cuttone"
-Warning--I didn't find a database entry for "Cutone"
-Warning--I didn't find a database entry for "Sorensen"
-Warning--I didn't find a database entry for "MacLeod"
-Warning--I didn't find a database entry for "Isaac"
-Warning--I didn't find a database entry for "Das"
-Warning--I didn't find a database entry for "dalhousie"
-Warning--I didn't find a database entry for "exact"
-You've used 14 entries,
+Warning--can't use both author and editor fields in Das
+You've used 27 entries,
             2243 wiz_defined-function locations,
-            650 strings with 7350 characters,
-and the built_in function-call counts, 6290 in all, are:
-= -- 620
-> -- 308
+            708 strings with 10239 characters,
+and the built_in function-call counts, 11657 in all, are:
+= -- 1161
+> -- 544
 < -- 0
-+ -- 128
-- -- 112
-* -- 457
-:= -- 955
-add.period$ -- 42
-call.type$ -- 14
-change.case$ -- 98
++ -- 226
+- -- 196
+* -- 835
+:= -- 1771
+add.period$ -- 82
+call.type$ -- 27
+change.case$ -- 176
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 257
-empty$ -- 488
-format.name$ -- 112
-if$ -- 1369
+cite$ -- 28
+duplicate$ -- 474
+empty$ -- 923
+format.name$ -- 196
+if$ -- 2543
 int.to.chr$ -- 0
-int.to.str$ -- 14
-missing$ -- 14
-newline$ -- 73
-num.names$ -- 28
-pop$ -- 116
+int.to.str$ -- 27
+missing$ -- 28
+newline$ -- 138
+num.names$ -- 54
+pop$ -- 215
 preamble$ -- 1
-purify$ -- 84
+purify$ -- 152
 quote$ -- 0
-skip$ -- 199
+skip$ -- 361
 stack$ -- 0
-substring$ -- 416
-swap$ -- 88
+substring$ -- 802
+swap$ -- 159
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 56
-warning$ -- 0
-while$ -- 60
-width$ -- 16
-write$ -- 151
-(There were 15 warnings)
+type$ -- 104
+warning$ -- 1
+while$ -- 114
+width$ -- 29
+write$ -- 290
+(There was 1 warning)
