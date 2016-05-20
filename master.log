@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.28)  20 MAY 2016 00:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.28)  20 MAY 2016 11:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -434,7 +434,7 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-<img/StakeholdersModel.jpg, id=172, 597.432pt x 334.6101pt>
+<img/StakeholdersModel.jpg, id=176, 597.432pt x 334.6101pt>
 File: img/StakeholdersModel.jpg Graphic file (type jpg)
 
 <use img/StakeholdersModel.jpg>
@@ -796,35 +796,54 @@ Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
 
-LaTeX Warning: Citation `Das' on page 6 undefined on input line 3.
+LaTeX Warning: Citation `Das' on page 6 undefined on input line 4.
+
+<img/workbook.jpg, id=297, 982.872pt x 737.154pt>
+File: img/workbook.jpg Graphic file (type jpg)
+ <use img/workbook.jpg>
+Package pdftex.def Info: img/workbook.jpg used on input line 9.
+(pdftex.def)             Requested size: 117.7922pt x 88.34218pt.
+
+<img/workbook2.jpg, id=298, 982.872pt x 737.154pt>
+File: img/workbook2.jpg Graphic file (type jpg)
+ <use img/workbook2.jpg>
+Package pdftex.def Info: img/workbook2.jpg used on input line 14.
+(pdftex.def)             Requested size: 117.7922pt x 88.34218pt.
 
 
-LaTeX Warning: Citation `dalhousie' on page 6 undefined on input line 10.
+LaTeX Warning: Citation `dalhousie' on page 6 undefined on input line 25.
 
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-LaTeX Warning: Citation `Rivera' on page 6 undefined on input line 12.
+LaTeX Warning: Citation `Rivera' on page 6 undefined on input line 27.
 
+<img/screens.jpg, id=299, 508.0581pt x 222.8325pt>
+File: img/screens.jpg Graphic file (type jpg)
+ <use img/screens.jpg>
+Package pdftex.def Info: img/screens.jpg used on input line 31.
+(pdftex.def)             Requested size: 512.36447pt x 224.74623pt.
+
+[6 <./img/workbook.jpg> <./img/workbook2.jpg>]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-LaTeX Warning: Citation `exact' on page 6 undefined on input line 16.
 
-[6]
-
-LaTeX Warning: Citation `Muller' on page 7 undefined on input line 21.
+LaTeX Warning: Citation `exact' on page 7 undefined on input line 37.
 
 
-LaTeX Warning: Citation `Cutone' on page 7 undefined on input line 23.
+LaTeX Warning: Citation `Muller' on page 7 undefined on input line 42.
 
 
-LaTeX Warning: Citation `Muller' on page 7 undefined on input line 23.
+LaTeX Warning: Citation `Cutone' on page 7 undefined on input line 44.
 
 
-LaTeX Warning: Citation `Muller' on page 7 undefined on input line 23.
+LaTeX Warning: Citation `Muller' on page 7 undefined on input line 44.
+
+
+LaTeX Warning: Citation `Muller' on page 7 undefined on input line 44.
 
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
@@ -836,19 +855,19 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-LaTeX Warning: Citation `Rivera' on page 7 undefined on input line 23.
+LaTeX Warning: Citation `Rivera' on page 7 undefined on input line 44.
 
 
-LaTeX Warning: Citation `Rivera' on page 7 undefined on input line 25.
+LaTeX Warning: Citation `Rivera' on page 7 undefined on input line 46.
 
 
-LaTeX Warning: Citation `Cuttone' on page 7 undefined on input line 25.
+LaTeX Warning: Citation `Cuttone' on page 7 undefined on input line 46.
 
 
-LaTeX Warning: Citation `Cuttone' on page 7 undefined on input line 25.
+LaTeX Warning: Citation `Cuttone' on page 7 undefined on input line 46.
 
 
-LaTeX Warning: Citation `Sorensen' on page 7 undefined on input line 27.
+LaTeX Warning: Citation `Sorensen' on page 7 undefined on input line 48.
 
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
@@ -916,21 +935,6 @@ Missing character: There is no ô in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no ù in font ptmri7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
 [7]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
@@ -947,6 +951,21 @@ Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no ú in font ptmri7t!
@@ -983,6 +1002,9 @@ Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
+
+Underfull \vbox (badness 1721) has occurred while \output is active []
+
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
@@ -1070,6 +1092,10 @@ Missing character: There is no ú in font ptmri7t!
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no ù in font ptmri7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./img/screens.jpg>]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
@@ -1079,7 +1105,7 @@ Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
- [8]) (./study3.tex) (./conclusion.tex) (./futurework.tex)
+) (./study3.tex) (./conclusion.tex) (./futurework.tex)
 (./acknowledgements.tex) (./master.bbl
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
@@ -1090,27 +1116,35 @@ Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
-)
+
+
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
+
+[9])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
- [9]
+ [10]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
  (./master.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: F999F90416EAF93E6C25A992C9F88F01;2345.
+(rerunfilecheck)             Checksum: 6233B467F5F2E8CC5C405B3D4F83B6F6;2498.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
  ) 
 Here is how much of TeX's memory you used:
- 6828 strings out of 493089
- 96044 string characters out of 6134841
- 205020 words of memory out of 5000000
- 10115 multiletter control sequences out of 15000+600000
+ 6850 strings out of 493089
+ 96399 string characters out of 6134841
+ 196228 words of memory out of 5000000
+ 10129 multiletter control sequences out of 15000+600000
  27866 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,35p,1853b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.44} has been referenced but does not exi
+ 41i,11n,35p,1853b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section*.45} has been referenced but does not exi
 st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.44} has been referenced but does not exist
+, replaced by a fixed one
 
 pdfTeX warning (dest): name{section*.43} has been referenced but does not exist
 , replaced by a fixed one
@@ -1118,10 +1152,10 @@ pdfTeX warning (dest): name{section*.43} has been referenced but does not exist
 pdfTeX warning (dest): name{section*.42} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.41} has been referenced but does not exist
+pdfTeX warning (dest): name{section*.38} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.37} has been referenced but does not exist
+pdfTeX warning (dest): name{section*.27} has been referenced but does not exist
 , replaced by a fixed one
 
 pdfTeX warning (dest): name{section*.19} has been referenced but does not exist
@@ -1144,10 +1178,10 @@ ve/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015
 -dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/font
 s/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on master.pdf (9 pages, 348750 bytes).
+Output written on master.pdf (10 pages, 6320474 bytes).
 PDF statistics:
- 368 PDF objects out of 1000 (max. 8388607)
- 345 compressed objects within 4 object streams
- 78 named destinations out of 1000 (max. 500000)
- 310 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 383 PDF objects out of 1000 (max. 8388607)
+ 356 compressed objects within 4 object streams
+ 83 named destinations out of 1000 (max. 500000)
+ 333 words of extra memory for PDF output out of 10000 (max. 10000000)
 

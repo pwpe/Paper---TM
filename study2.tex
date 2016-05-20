@@ -1,6 +1,21 @@
+\section{Study 2 - Designing A COPD Telehealth System}     
 In the following we describe how we redesigned the system to support patients in collecting and reflecting on self-tracked data and evaluated the re-design. Researchers have however found that co-designing with COPD patients using generative tools and techniques (e.g. post-it notes and sketching activities) are resource demanding for the patients, considering their health condition. Some patients are not even able to participate in other activities than keeping a conversation. In Study 1, we similarly experienced that COPD patients are physically limited (e.g. in terms of moving from one place to another) and within an hour of interview experienced breathing difficulties several times, demanding a slow pace and long pauses. 
 
 Drawing from Das et al.’s experiences on co-designing with COPD patients \cite{Das} and our own experiences from Study 1, we decided not to conduct co-designing activities as initially planned. We made a conscious plan to conduct individual sessions where patients were only expected to talk or interact with a prototype. To further reduce time and effort required by them in the sessions, we asked patients to complete workbook assignments beforehand, allowing them to prepare for the discussion on, how our proposals foster reflection during collection and review of data. In the following, we describe the workbook and prototype design. 
+
+\begin{figure}[!htb]
+  \centering
+  \begin{minipage}[b]{0.23\textwidth}
+    \includegraphics[width=\textwidth]{img/workbook}
+    %\caption{Flower one.}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[b]{0.23\textwidth}
+    \includegraphics[width=\textwidth]{img/workbook2}
+    %\caption{Flower two.}
+  \end{minipage}
+   \caption{Workbooks with assignments}
+\end{figure}
 
 \subsection{Workbook Design}
 We found that patients reflect during multiple stages of a collection episode and have user needs and concerns, currently not addressed in the system. Workbooks assignments were designed to get insight into, how the system can support them in collecting and reflecting on data. We further asked patients to collect data to be used in the prototype. 
@@ -10,6 +25,12 @@ We found that patients were unsure, whether they were collecting data under the 
 Patients expressed difficulties rating symptoms subjectively, due to lack of baseline understanding and low granularity of answer options in Study 1. Patients had to reflect on a time series graph of previous measures (showing baseline) while entering current measure in one assignments. In another assignments, patients had to assess dyspnea on different scales: (1) Relative to usual baseline (binary), (2) absolute (five-point scale) and (3) using visuals (Dalhousie Pictorial Scale \cite{dalhousie}).  
 
 Finally, patient had to reflect on a time series graph of previous oxygen saturation measures (long-term reflection). A recommended level was marked on the graph to trigger reflection on a potential mismatch in accordance with Festinger’s cognitive dissonance theory \cite{Rivera}. 
+
+\begin{figure*}
+  \centering
+  \includegraphics[width=2.1\columnwidth]{img/screens}
+  \caption{Screens from the prototype: Collection page (left), Dashboard (middle), Four visualizations of history data (right). V1 (top left), V2 (top right), V3 (bottom left) and V4 (bottom right)}~\label{fig:design}
+\end{figure*}
 
 \subsection{Prototype Design}
 \subsubsection{Improving Reliability and Validity of Measures}
