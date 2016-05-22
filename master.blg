@@ -3,10 +3,12 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: master.aux
 The style file: acm-sigchi.bst
 Database file #1: references.bib
+Warning--I didn't find a database entry for "Lisa"
+Warning--I didn't find a database entry for "Who"
 Warning--can't use both author and editor fields in Das
 You've used 27 entries,
             2243 wiz_defined-function locations,
-            708 strings with 10239 characters,
+            712 strings with 10253 characters,
 and the built_in function-call counts, 11657 in all, are:
 = -- 1161
 > -- 544
@@ -45,4 +47,4 @@ warning$ -- 1
 while$ -- 114
 width$ -- 29
 write$ -- 290
-(There was 1 warning)
+(There were 3 warnings)
