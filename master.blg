@@ -3,48 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: master.aux
 The style file: acm-sigchi.bst
 Database file #1: references.bib
-Warning--I didn't find a database entry for "Lisa"
-Warning--I didn't find a database entry for "Who"
 Warning--can't use both author and editor fields in Das
-You've used 27 entries,
+You've used 30 entries,
             2243 wiz_defined-function locations,
-            712 strings with 10253 characters,
-and the built_in function-call counts, 11657 in all, are:
-= -- 1161
-> -- 544
+            728 strings with 10789 characters,
+and the built_in function-call counts, 12636 in all, are:
+= -- 1257
+> -- 595
 < -- 0
-+ -- 226
-- -- 196
-* -- 835
-:= -- 1771
-add.period$ -- 82
-call.type$ -- 27
-change.case$ -- 176
++ -- 247
+- -- 214
+* -- 914
+:= -- 1938
+add.period$ -- 91
+call.type$ -- 30
+change.case$ -- 193
 chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 474
-empty$ -- 923
-format.name$ -- 196
-if$ -- 2543
+cite$ -- 31
+duplicate$ -- 502
+empty$ -- 997
+format.name$ -- 214
+if$ -- 2740
 int.to.chr$ -- 0
-int.to.str$ -- 27
-missing$ -- 28
-newline$ -- 138
-num.names$ -- 54
-pop$ -- 215
+int.to.str$ -- 30
+missing$ -- 32
+newline$ -- 153
+num.names$ -- 60
+pop$ -- 232
 preamble$ -- 1
-purify$ -- 152
+purify$ -- 167
 quote$ -- 0
-skip$ -- 361
+skip$ -- 377
 stack$ -- 0
-substring$ -- 802
-swap$ -- 159
+substring$ -- 867
+swap$ -- 162
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 104
+type$ -- 114
 warning$ -- 1
-while$ -- 114
-width$ -- 29
-write$ -- 290
-(There were 3 warnings)
+while$ -- 124
+width$ -- 32
+write$ -- 321
+(There was 1 warning)
