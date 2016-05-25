@@ -6,7 +6,7 @@ Database file #1: references.bib
 Warning--can't use both author and editor fields in Das
 You've used 30 entries,
             2243 wiz_defined-function locations,
-            728 strings with 10789 characters,
+            728 strings with 10783 characters,
 and the built_in function-call counts, 12636 in all, are:
 = -- 1257
 > -- 595
